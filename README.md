@@ -1,8 +1,8 @@
 # Merchant
 Assigment
 
-#Used Framework 
+# Used Framework 
 React
 
-#Bundling Process
+# Bundling Process
 Webpack
